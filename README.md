@@ -1,5 +1,5 @@
 # json4df
-## XSL conversion of JSON for Pandas dataframe
+## XSL Transformation of JSON for Pandas Dataframe
 
 ## About:
 
