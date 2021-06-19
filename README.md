@@ -15,19 +15,30 @@ Installation:
 
 Dependencies:
 
-The function needs the latest version of pandas, json2xml, lxml. Install
-if necessary. \$ pip install pandas==1.3.0rc1 \$ pip install json2xml \$
-pip install lxml
+The function needs the latest version of pandas, json2xml, lxml. 
+Install if necessary. 
+\$ pip install pandas==1.3.0rc1 
+\$ pip install json2xml 
+\$pip install lxml
 
 How to use:
 
-json4df(json,xsl,filename) The function will ask you to fill the
+The json4df.py function will ask you to fill the
 parameters with following values:
 
-json - the path to the raw JSON xsl - the path to the xsl template
+JSON - the path to the raw JSON 
+XSL - the path to the xsl template
 filename - desired name of resulting file
+
+Use example:
+
+You can run the json4dfDemo.py to check what the function does.
+For the example I used the Twitter API.
+Because of GDPR I made up the data of my request -- APIreq(1).json
+The function calls this file and transforms it to according to the XSL template- template.xsl
+
 
 Future:
 
 The idea is to build a community for sharing of XSL templates. If you
-wish to share, add your schema and description to the XSL repository.
+wish to share, add your schema and description to the "XSL repository" folder.
