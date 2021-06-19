@@ -3,11 +3,9 @@
 
 ## About:
 
-Because the JSON file's retrieved through API’s are often nested, it is
-difficult to put them into a dataframe appropriate for data analysis.
-The proposed “json4df” function takes a JSON file and a custom XSL
-template. It returns a JSON file transformed according to the template
-ready to load in the Pandas dataframe.
+Because the JSON file's retrieved through API’s are often nested, it is difficult to put them into a dataframe appropriate for data analysis.  
+The proposed “json4df” function takes a JSON file and a custom XSL template.  
+It returns a JSON file transformed according to the template, ready to load in the Pandas dataframe.
 
 ## Installation:
 
