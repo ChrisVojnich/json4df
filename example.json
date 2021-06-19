@@ -1,0 +1,125 @@
+{
+    "data": [
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-06-17T11:19:44.000Z",
+            "id": "1203040303040404",
+            "text": "some text of a user",
+            "conversation_id": "03043049043950439504395"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-06-17T11:19:44.000Z",
+            "id": "546456456346545645645645654",
+            "text": "some other text of some other user",
+            "conversation_id": "98080980980980808"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1543,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-06-17T11:19:44.000Z",
+            "id": "80980809809808098098",
+            "text": "A great comment that needs to be analyzed",
+            "conversation_id": "9809809809809890"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 295,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-06-17T11:19:43.000Z",
+            "id": "098098098908098098",
+            "text": "beutiful text, much WOW!",
+            "conversation_id": "934023849238490382409832"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 304,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-06-17T11:19:43.000Z",
+            "id": "90485904385904385904",
+            "text": "If you are reading this I guesss you get the idea",
+            "conversation_id": "9459034854395904385"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 118,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-06-17T11:19:43.000Z",
+            "id": "9080989080980980",
+            "text": "Why am I writing this by hand?",
+            "conversation_id": "5409'450964395'043950'43"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 26,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+         }
+        }
+    ],
+    "includes": {
+        "media": [
+            {
+                "url": "https://pbs.twimg.com/media/E4FJa-vWEAAKwGb.jpg",
+                "media_key": "3_1405485286583308288",
+                "type": "photo"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/E4FJKbJXMAEenhT.jpg",
+                "media_key": "3_1405485002150850561",
+                "type": "photo"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/E4FJYgaVgAAqxXa.jpg",
+                "media_key": "3_1405485244082388992",
+                "type": "photo"
+            },
+            {
+                "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1405436519733628929/pu/img/hak78VLZbMxTQS4J.jpg",
+                "media_key": "7_1405436519733628929",
+                "type": "video",
+                "public_metrics": {"view_count": 112}
+            },
+            {
+                "url": "https://pbs.twimg.com/media/E4FJXbUWQAUaa2Y.jpg",
+                "media_key": "3_1405485225535225861",
+                "type": "photo"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/E3dgGtQUYAIL92U.jpg",
+                "media_key": "3_1402695477292720130",
+                "type": "photo"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1405485306590138373",
+        "oldest_id": "1405485217389940742",
+        "result_count": 100,
+        "next_token": "b26v89c19zqg8o3fpdg90ude0t5gtlobfqpob87k77se5"
+    }
+}
