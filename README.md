@@ -34,8 +34,9 @@ filename - desired name of resulting file
 
 You can run the json4dfDemo.py to check what the function does.  
 For the example I used the Twitter API.  
-Because of GDPR I made up the data of my request -- APIreq(1).json  
-The function calls this file and transforms it to according to the XSL template- template.xsl
+Because of GDPR I made up the data of my request -- example.json  
+The function calls this file and transforms it according to the XSL template -- template.xsl
+The resulting file can be loaded in a dataframe with pandas.read_json()
 
 
 ## Future:
