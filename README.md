@@ -41,3 +41,10 @@ The resulting file can be loaded in a dataframe with pandas.read_json()
 
 The idea is to build a community for sharing of XSL templates.  
 If you wish to share, add your schema and description to the "XSL repository" folder.
+
+## Acknowledgment
+
+Thnx to the UniGraz Digital Humanities Department for introducing me to Xtechnologies and Python.
+(reference:) https://twitter.com/dh_graz
+
+& erasmus for giving access!
