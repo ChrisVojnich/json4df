@@ -44,7 +44,5 @@ If you wish to share, add your schema and description to the "XSL repository" fo
 
 ## Acknowledgment
 
-Thnx to the UniGraz Digital Humanities Department for introducing me to Xtechnologies and Python.
-(reference:) https://twitter.com/dh_graz
+Thnx to the UniGraz Digital Humanities Department for introducing me to Xtechnologies, Python and API's.
 
-& erasmus for giving access!
