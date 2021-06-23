@@ -7,9 +7,6 @@ Because the JSON file's retrieved through API’s are often nested, it is diffic
 The proposed “json4df” function takes a JSON file and a custom XSL template.  
 It returns a JSON file transformed according to the template, ready to load in the Pandas dataframe.
 
-## Installation:
-
-$ pip install json4df
 
 ## Dependencies:
 
